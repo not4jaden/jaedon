@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a system factory that generates widely used systems. <br>👯 I’m looking to collaborate on anything concerning web development, or system building.<br>🤝 I’m looking for help with<br>🌱 I’m currently learning python<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on a system factory that generates widely used systems. <br>👯 I’m looking to collaborate on anything concerning web development, or system building.<br>🌱 I’m currently learning python
 
 
 ## 🌐 Socials:
